@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer • Open-Source Contributor • Performance Enthusiast
 
-Building robust software, optimizing performance, and contributing to impactful open-source ecosystems.
+Building robust software, optimizing performance, and contributing to open-source ecosystems.
 
 [![GitHub](https://img.shields.io/badge/GitHub-yashveer--1-181717?style=for-the-badge&logo=github)](https://github.com/yashveer-1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yashveer1/)
@@ -18,24 +18,19 @@ Building robust software, optimizing performance, and contributing to impactful 
 ## 💫 About Me
 
 - 💻 **Full-Stack Developer** focused on building reliable, scalable, and high-performance applications.
-- 🌍 **Open-Source Contributor** actively building and maintaining features at [CircuitVerse](https://github.com/CircuitVerse).
+- 🌍 **Open-Source Contributor** actively fixing bugs, building features, and refactoring codebases across open-source communities.
 - ⚡ **Core Strengths:** Performance optimization, debugging complex codebases, and writing maintainable code.
 - 🌱 **Currently Exploring:** Advanced Vue.js patterns, TypeScript ecosystem depth, and clean architecture practices.
 - 🎯 **Goal:** Continuously grow as a software engineer and scale impactful open-source contributions.
 
 ---
 
-## 🚀 Featured Work & Open Source
+## 🚀 Open Source Contributions
 
-<div align="center">
-
-### CircuitVerse
-*An open-source digital logic circuit simulator used by students and educators worldwide.*
-
-[![CircuitVerse Organization](https://img.shields.io/badge/Explore-CircuitVerse-6C63FF?style=for-the-badge&logo=github)](https://github.com/CircuitVerse)
-[![My Pull Requests](https://img.shields.io/badge/My%20Contributions-View%20PRs-181717?style=for-the-badge&logo=github)](https://github.com/CircuitVerse/cv-frontend-vue/pulls?q=is%3Apr+author%3Ayashveer-1)
-
-</div>
+| Organization | Description | My Work |
+| :--- | :--- | :---: |
+| **CircuitVerse** | Open-source digital logic circuit simulator | [View PRs](https://github.com/CircuitVerse/cv-frontend-vue/pulls?q=is%3Apr+author%3Ayashveer-1) |
+| **Org Name** *(Optional)* | Brief project description | [View PRs](#) |
 
 ---
 
