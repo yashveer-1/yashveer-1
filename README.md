@@ -1,15 +1,15 @@
-
 <div align="center">
 
-# 👋 Hey, I'm Yashveer
+# 👋 Hi, I'm Yashveer
 
-### Full-Stack Developer • Open-Source Contributor
+### Full-Stack Developer • Open-Source Contributor • Performance Enthusiast
 
-Building useful software, improving performance, and contributing to open source.
+Building robust software, optimizing performance, and contributing to impactful open-source ecosystems.
 
 [![GitHub](https://img.shields.io/badge/GitHub-yashveer--1-181717?style=for-the-badge&logo=github)](https://github.com/yashveer-1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yashveer1/)
-[![Profile Views](https://komarev.com/ghpvc/?username=yashveer-1&style=for-the-badge&color=blueviolet)](https://github.com/yashveer-1)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ys748477@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-View-121011?style=for-the-badge&logo=adobeacrobatreader&logoColor=red)](https://drive.google.com/file/d/13_foe3niJNBhBdCR1ckjrhRi1iCEcGmv/view?usp=sharing)
 
 </div>
 
@@ -17,15 +17,25 @@ Building useful software, improving performance, and contributing to open source
 
 ## 💫 About Me
 
-- 💻 Full-stack developer interested in building reliable, scalable applications.
-- 🌍 Open-source contributor at [CircuitVerse](https://github.com/CircuitVerse).
-- ⚡ Interested in performance optimization, debugging, and improving existing codebases.
-- 🌱 Currently exploring Vue.js, TypeScript, and better software engineering practices.
-- 🎯 Working toward becoming a stronger open-source contributor.
+- 💻 **Full-Stack Developer** focused on building reliable, scalable, and high-performance applications.
+- 🌍 **Open-Source Contributor** actively building and maintaining features at [CircuitVerse](https://github.com/CircuitVerse).
+- ⚡ **Core Strengths:** Performance optimization, debugging complex codebases, and writing maintainable code.
+- 🌱 **Currently Exploring:** Advanced Vue.js patterns, TypeScript ecosystem depth, and clean architecture practices.
+- 🎯 **Goal:** Continuously grow as a software engineer and scale impactful open-source contributions.
 
-📄 **[View My Resume](https://drive.google.com/file/d/13_foe3niJNBhBdCR1ckjrhRi1iCEcGmv/view?usp=sharing)**
+---
 
-📫 **Contact:** [ys748477@gmail.com](mailto:ys748477@gmail.com)
+## 🚀 Featured Work & Open Source
+
+<div align="center">
+
+### CircuitVerse
+*An open-source digital logic circuit simulator used by students and educators worldwide.*
+
+[![CircuitVerse Organization](https://img.shields.io/badge/Explore-CircuitVerse-6C63FF?style=for-the-badge&logo=github)](https://github.com/CircuitVerse)
+[![My Pull Requests](https://img.shields.io/badge/My%20Contributions-View%20PRs-181717?style=for-the-badge&logo=github)](https://github.com/CircuitVerse/cv-frontend-vue/pulls?q=is%3Apr+author%3Ayashveer-1)
+
+</div>
 
 ---
 
@@ -38,7 +48,7 @@ Building useful software, improving performance, and contributing to open source
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Frontend
+### Frontend & UI
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -49,24 +59,9 @@ Building useful software, improving performance, and contributing to open source
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Tools
+### Development & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
----
-
-## 🌍 Open Source
-
-<div align="center">
-
-### CircuitVerse
-
-Contributing to an open-source digital circuit simulator.
-
-[![CircuitVerse](https://img.shields.io/badge/Explore-CircuitVerse-6C63FF?style=for-the-badge&logo=github)](https://github.com/CircuitVerse)
-[![My Contributions](https://img.shields.io/badge/My%20Pull%20Requests-181717?style=for-the-badge&logo=github)](https://github.com/CircuitVerse/cv-frontend-vue/pulls?q=is%3Apr+author%3Ayashveer-1)
 
 </div>
 
@@ -80,6 +75,8 @@ Contributing to an open-source digital circuit simulator.
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashveer-1&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 
+<br/>
+
 <img width="70%" src="https://streak-stats.demolab.com?user=yashveer-1&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
@@ -88,8 +85,10 @@ Contributing to an open-source digital circuit simulator.
 
 <div align="center">
 
-### 💬 Let's Build Something Meaningful
+### 💬 Let's Connect & Build Something Meaningful
 
 *Learn • Build • Contribute • Improve*
+
+[![Profile Views](https://komarev.com/ghpvc/?username=yashveer-1&style=for-flat-square&color=blueviolet)](https://github.com/yashveer-1)
 
 </div>
