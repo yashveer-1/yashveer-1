@@ -30,7 +30,7 @@ Building robust software, optimizing performance, and contributing to open-sourc
 | Organization | Description | My Work |
 | :--- | :--- | :---: |
 | **CircuitVerse** | Open-source digital logic circuit simulator | [View PRs](https://github.com/CircuitVerse/cv-frontend-vue/pulls?q=is%3Apr+author%3Ayashveer-1) |
-| **Org Name** *(Optional)* | Brief project description | [View PRs](#) |
+
 
 ---
 
