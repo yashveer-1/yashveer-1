@@ -25,12 +25,22 @@ Building robust software, optimizing performance, and contributing to open-sourc
 
 ---
 
-## 🚀 Open Source Contributions
+## 🚀 Featured Projects
+
+| Project | Description | Live Demo |
+| :--- | :--- | :---: |
+| **Rozgaar** | Employment platform connecting job seekers with opportunities | [Live Site](https://rozgaar-client-nine.vercel.app/) |
+| **FMCG AI Demand Predictor** | AI-driven demand forecasting tool for fast-moving consumer goods | [Live Site](https://fmcg-ai-demand-predictor.vercel.app/) |
+| **Truck Optimizer** | Logistics and route optimization application for transport efficiency | [Live Site](https://truck-optimizer.vercel.app/) |
+| **AI Job Prep Platform** | Interactive AI tool for interview preparation and skill assessment | [Live Site](https://ai-job-prep-platform.vercel.app/register) |
+
+---
+
+## 🌍 Open Source Contributions
 
 | Organization | Description | My Work |
 | :--- | :--- | :---: |
 | **CircuitVerse** | Open-source digital logic circuit simulator | [View PRs](https://github.com/CircuitVerse/cv-frontend-vue/pulls?q=is%3Apr+author%3Ayashveer-1) |
-
 
 ---
 
