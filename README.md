@@ -23,7 +23,7 @@ Building useful software, improving performance, and contributing to open source
 - 🌱 Currently exploring Vue.js, TypeScript, and better software engineering practices.
 - 🎯 Working toward becoming a stronger open-source contributor.
 
-📄 **[View My Resume](https://drive.google.com/file/d/13_foe3niJNBhBdCR1ckjrhRi1iCEcGmv/view)**
+📄 **[View My Resume](https://drive.google.com/file/d/13_foe3niJNBhBdCR1ckjrhRi1iCEcGmv/view?usp=sharing)**
 
 📫 **Contact:** [ys748477@gmail.com](mailto:ys748477@gmail.com)
 
